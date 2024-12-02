@@ -1,0 +1,50 @@
+[
+  {
+      "id": 1,
+      "authorName": "Alice Johnson",
+      "createdDate": "2024-11-01T10:30:00Z",
+      "blogPicture": "https://img.freepik.com/premium-photo/future-unveiled-exploring-wonders-artificial-intelligence-humanoid-head-ar-32_983420-272740.jpg",
+      "blogTitle": "Exploring the Wonders of Artificial Intelligence",
+      "blogDescription": "An in-depth look at how AI is transforming industries and enhancing everyday life. In this ever-evolving technological era, a groundbreaking concept has captured the imagination of innovators and dreamers alike — Artificial Intelligence (AI). Brace yourself for an enchanting exploration as we unravel the mysteries of AI, uncovering its definition, applications, and the remarkable benefits it bestows upon us. Prepare to be swept away on a whimsical journey through the captivating realm of Artificial Intelligence."
+  },
+  {
+      "id": 2,
+      "authorName": "Michael Smith",
+      "createdDate": "2024-11-03T14:20:00Z",
+      "blogPicture": "https://i.ytimg.com/vi/9CvzRXGIAak/maxresdefault.jpg",
+      "blogTitle": "Discover the world's most exciting travel destinations for 2025",
+      "blogDescription": "Discover the most breathtaking and unique travel spots for the upcoming year. , including vibrant Ho Chi Minh City with its rich cultural revival, stunning landscapes of Greenland's accessible ice-capes, the thriving art scene in Queensland's Tropical Coast, and more - plan your unforgettable adventure today!"
+  },
+  {
+      "id": 3,
+      "authorName": "Sophia Williams",
+      "createdDate": "2024-11-05T09:45:00Z",
+      "blogPicture": "https://www.jbecotex.com/images/blog/RE.webp",
+      "blogTitle": "The Future of Renewable Energy",
+      "blogDescription": "The future of renewable energy looks very promising, with predictions of significant growth in solar and wind power, driven by rapidly decreasing costs and increasing global demand, potentially leading to a major shift towards renewable energy sources as the primary electricity generation method in the coming decades; key aspects include the rise of battery storage technology to address intermittent energy supply, integration with electric vehicles, and further development of innovative renewable energy sources like geothermal and ocean power"
+  },
+  {
+      "id": 4,
+      "authorName": "James Brown",
+      "createdDate": "2024-11-07T16:10:00Z",
+      "blogPicture": "https://www.hulkapps.com/cdn/shop/articles/IMAGE-FILE-UPLOADS-mastering-the-art-of-remote-work-strategies-for-success-873209_1792x.jpg?v=1722249268",
+      "blogTitle": "Mastering the Art of Remote Work",
+      "blogDescription": "Tips and tools for staying productive and connected while working from home. Employees love remote work. Employers are increasingly skeptical, which some are reporting means that up to 90% of all remote workers will be back to the office by the end of 2024. So how do you keep your remote gig remote? Adapting these seven tips may help you as your employer considers getting rid of your remote status this year."
+  },
+  {
+      "id": 5,
+      "authorName": "Emily Davis",
+      "createdDate": "2024-11-09T12:00:00Z",
+      "blogPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuWLX6ktlrFnxQjh4Zt7eBz078YP1aKjDPQ&s",
+      "blogTitle": "A Beginner's Guide to Cryptocurrency",
+      "blogDescription": "Cryptocurrency is digital money that doesn’t require a bank or financial institution to verify transactions and can be used for purchases or as an investment. Transactions are then verified and recorded on a blockchain, an unchangeable ledger that tracks and records assets and trades."
+  },
+  {
+      "id": 6,
+      "authorName": "Adam Zampa",
+      "createdDate": "2024-11-10T15:00:00Z",
+      "blogPicture": "https://www.hindustantimes.com/ht-img/img/2024/10/31/550x309/PTI10-30-2024-000330B-0_1730347969802_1730347991212.jpg",
+      "blogTitle": "Diwali Celebrations",
+      "blogDescription": "Diwali festivities include a celebration of sights, sounds, arts and flavours. The festivities vary between different regions. In the lead-up to Diwali, celebrants prepare by cleaning, renovating, and decorating their homes and workplaces with diyas (oil lamps) and rangolis (colourful art circle patterns)."
+  }
+]
