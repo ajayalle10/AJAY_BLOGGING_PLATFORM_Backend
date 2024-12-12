@@ -232,6 +232,79 @@ footer {
   padding-top: 1rem;
   text-align: center;
 }
+@media only screen and (max-width: 600px) {
+  .container {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "nav"
+      "about"
+      "skills"
+      "phead"
+      "p1"
+      "p2"
+      "p3"
+      "ehead"
+      "e1"
+      "e2"
+      "e3"
+      "eduhead"
+      "edu1"
+      "edu2"
+      "edu3"
+      "cerhead"
+      "cer1"
+      "cer2"
+      "bhead"
+      "b1"
+      "b2"
+      "b3"
+      "footer";
+  }
+  nav {
+    margin-left: 2rem;
+    a {
+      margin: 0.5rem 1rem;
+    }
+    margin-bottom: 2rem;
+  }
+  #about {
+    margin: 0rem 1.5rem 1rem 1.5rem;
+  }
+
+  #skills {
+    margin: 0rem 1.5rem;
+  }
+  #p1,
+  #p2,
+  #p3 {
+    margin: 0rem 1.5rem 1rem 1.5rem;
+  }
+  #e1,
+  #e2,
+  #e3 {
+    img {
+      margin-top: 7rem;
+    }
+    margin-right: 1.5rem;
+  }
+
+  .education {
+    height: 10rem;
+    margin-right: 1.5rem;
+  }
+  .edu {
+    img {
+      margin-top: 3rem;
+    }
+  }
+  .cer {
+    margin: 0rem 1.5rem 1rem 1.5rem;
+  }
+  #b1,
+  #b2 {
+    margin: 0rem 1.5rem 1rem 1.5rem;
+  }
+}
 
     </style>
   </head>
